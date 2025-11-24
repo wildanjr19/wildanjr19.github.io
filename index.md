@@ -66,3 +66,8 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 🏅 **25/92th Intelecta Cup 2025** | Telkom University 2025
 - Machine Learning: Regression Analysis
 - Build model to predict average temperature
+
+🏅 **Finalis LOGIKA UI 2025** | Universitas Indonesia 2025
+- Deep Learning: Image Classification  
+- Created a model for image for traditional architecture in Indonesian
+- Applied feature extraction for images and combined with MLP classifier
