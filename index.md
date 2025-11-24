@@ -1,9 +1,6 @@
 ## **Summary**  
 Statistic student at Sebelas Maret University. Interested in Deep Learning, Generative Model, and Natural Language Processing.
 
-## Contact
-
-
 ## **Technical Skills**  
 - Python
 - R
@@ -68,6 +65,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - Build model to predict average temperature
 
 🏅 **Finalis LOGIKA UI 2025** | Universitas Indonesia 2025
-- Deep Learning: Image Classification  
+- Deep Learning: Image Classification
+- 8/n Qualification phase  
 - Created a model for image for traditional architecture in Indonesian
 - Applied feature extraction for images and combined with MLP classifier
