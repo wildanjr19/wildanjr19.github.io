@@ -60,11 +60,11 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - Created a model for image lung diesase classification
 - Applied deep learning technique 
 
-🏅 **25/92th Intelecta Cup 2025** | Telkom University 2025
+🏅 **25/92th Data Mining Intelecta Cup 2025** | Telkom University 2025
 - Machine Learning: Regression Analysis
 - Build model to predict average temperature
 
-🏅 **Finalis LOGIKA UI 2025** | Universitas Indonesia 2025
+🏅 **Finalis Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
 - Deep Learning: Image Classification
 - 8/n Qualification phase  
 - Created a model for image for traditional architecture in Indonesian
