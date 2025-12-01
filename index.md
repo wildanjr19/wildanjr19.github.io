@@ -55,7 +55,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 🏆 **1st Place** – **Dokter Data Essay Competition** | Universitas Diponegoro 2025  
 - Implemented U-Net model for image segmentation of deforestation rate in Obi Island  
 
-🏅 **Top 6 (Finalist) SRIFOTON Machine Learning Competition 2025** | Universitas Sriwijaya 2025
+🏅 **Finalist SRIFOTON Machine Learning Competition 2025** | Universitas Sriwijaya 2025
 - Deep Learning: Image Classification  
 - Created a model for image lung diesase classification
 - Applied deep learning technique 
@@ -66,6 +66,21 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 🏅 **Finalis Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
 - Deep Learning: Image Classification
-- 8/n Qualification phase  
+- 7/94 Qualification phase  
 - Created a model for image for traditional architecture in Indonesian
 - Applied feature extraction for images and combined with MLP classifier
+
+🏅 **Finalis Data Mining Competition ACTION 2025** | Universitas Negeri Surabaya 2025
+- Qualification:
+  - Image Classification
+  - Image Clustering
+  - Self-supervised Learning
+  - Kaggle Leaderboard -> 9/131
+  - Final Standing -> 5/131
+  - Paper
+- Finals:
+  - NER (Named Entity Recognition)
+  - Token Classification
+  - BIO Tagging
+  - Kaggle Leaderboard -> 2/5
+  - Finak Standing -> Na   
