@@ -13,17 +13,17 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 ## **Experience**  
 
-### **Project-Based Intern**  
-📍 **Dinas Komunikasi Informatika Statistik dan Persandian Surakarta | Aug 2024 - Sep 2024**  
+### 📝 **Project-Based Intern**  
+**Dinas Komunikasi Informatika Statistik dan Persandian Surakarta | Aug 2024 - Sep 2024**  
 - Project title "Analisis Sentimen dan Pemodelan Topik Sektor Kesehatan di Kota Surakarta"
 - Scrapping 10K+ data from Google Maps review
 - Fine-tune IndoBERT for sentiment analysis and multi-class classification
 - Visualizing result of research
 
-### **Assistant Lecturer**
-**Alghoritm and Programming**
+### 📋 **Assistant Lecturer**
+- Alghoritm and Programming
 
-### **Research Assistant**
+### 🔬 **Research Assistant**
 - Statistic modelling
 
 ---
