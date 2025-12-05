@@ -4,7 +4,6 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 ## **Technical Skills**  
 - Python
 - R
- 
 
 ## **Profiles & Portfolio**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/wildanabidalhanif/) | [**GitHub**](https://github.com/willywonka19) | [**Medium**](https://medium.com/@wildanabidd) | [**Kaggle**](https://www.kaggle.com/wildanabid19)
@@ -56,7 +55,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - Implemented U-Net model for image segmentation of deforestation rate in Obi Island  
 
 🏅 **Finalist SRIFOTON Machine Learning Competition 2025** | Universitas Sriwijaya 2025
-- Deep Learning: Image Classification  
+- Image Classification  
 - Created a model for image lung diesase classification
 - Applied deep learning technique 
 
@@ -65,16 +64,18 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - Build model to predict average temperature
 
 🏅 **Finalis Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
-- Deep Learning: Image Classification
+- Image Classification
 - 7/94 Qualification phase  
 - Created a model for image for traditional architecture in Indonesian
 - Applied feature extraction for images and combined with MLP classifier
+- Applied DINO by Meta for image extraction
 
 🏅 **Finalis Data Mining Competition ACTION 2025** | Universitas Negeri Surabaya 2025
 - Qualification:
   - Image Classification
   - Image Clustering
   - Self-supervised Learning
+  - Psuedo-labelling
   - Kaggle Leaderboard -> 9/131
   - Final Standing -> 5/131
   - Paper
@@ -83,4 +84,4 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
   - Token Classification
   - BIO Tagging
   - Kaggle Leaderboard -> 2/5
-  - Finak Standing -> Na   
+  - Final Standing -> Na   
