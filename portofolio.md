@@ -106,32 +106,3 @@ This is my first project on text and transformers. It involves conducting a sent
 ## Projects by Competition
 
 
-
-
-
-
-
-
-
-
-
-## Skills
-
-- Python
-- R
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-
-## Contact
-
-Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, silakan hubungi saya melalui:
-
-- [LinkedIn](https://www.linkedin.com/in/wildanabidalhanif/)
-- [GitHub](https://github.com/willywonka19)
-- [Email](mailto:your-email@example.com)
-
----
-
-*Terakhir diperbarui: Desember 2025*</content>
-<parameter name="filePath">d:\Willy's Project\wildanabidd.github.io\portofolio.md
