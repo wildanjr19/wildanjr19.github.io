@@ -28,32 +28,38 @@ This project focuses on text classification and forecasting tasks. The goal of t
 
 ---
 
-### Project 2: [Nama Proyek]
+### Klasifikasi Emosi dan Pemodelan Topik Ulasan Wisatawan di Pacitan
 
-**Deskripsi:**  
-Deskripsikan proyek ini secara singkat.
+**Descrption:**  
+This project focuses on text-based emotion classification and topic modeling of Google Maps reviews. The data used are tourist reviews of tourist attractions in Pacitan.
 
-**Tech Stack:**  
-- Teknologi 1
-- Teknologi 2
+**What i use/done:**  
+- Python
+- Applied IndoBERT for sentiment analysis
+- Applied BERTopic for topic modelling
+- Writing skills
+- Data cleaning for text
 
 **Links:**  
-- [GitHub Repository](link-ke-repo)
+- [GitHub Repository](https://github.com/wildanjr19/klasifikasi-emosi-pemodelan-topik)
+- [Medium](https://medium.com/@wildanabidd/klasifikasi-emosi-dan-pemodelan-topik-ulasan-wisatawan-di-pacitan-7be423c69dd5)
 
 **Tanggal:** Bulan Tahun
 
 ---
 
-### Project 3: [Nama Proyek]
+### Model Analisis Sentimen dengan TensorFlow Keras dan LSTM
 
 **Deskripsi:**  
-Deskripsikan proyek ini.
+This project is a text classification task with explanations. The explanations focus on tokenization and embedding, supported by examples of embedding visualizations.
 
-**Tech Stack:**  
-- Teknologi 1
+**What i use/done:**  
+- Python
+- LSTM for text classification
+- Writing skills
 
 **Links:**  
-- [GitHub Repository](link-ke-repo)
+- [Medium](https://medium.com/@wildanabidd/model-analisis-sentimen-dengan-tensorflow-keras-dan-lstm-dengan-penjelasan-06282cd9b9bb)
 
 **Tanggal:** Bulan Tahun
 
