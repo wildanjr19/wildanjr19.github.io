@@ -49,10 +49,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
   Implemented machine learning alghoritm from scratch
 
 ---
-## **Project**
-[**Visit My Project Here **](portofolio.md)
 
----
 ## **Achievements**  
 
 🏆 **1st Place** – **Dokter Data Essay Competition** | Universitas Diponegoro 2025  
