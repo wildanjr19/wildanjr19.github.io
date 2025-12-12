@@ -7,7 +7,7 @@ layout: page
 
 ## Project by Personal
 
-###  Peramalan Harga Penutupan Saham IHSG Dengan Analisis Sentiment Menggunakan LSTM
+### Peramalan Harga Saham IHSG dengan LSTM dan Analisis Sentimen
 
 **Description:**  
 This project focuses on text classification and forecasting tasks. The goal of this project is to forecast the Jakarta Composite Index (IHSG) using additional variables, namely sentiment obtained from X.
@@ -26,7 +26,7 @@ This project focuses on text classification and forecasting tasks. The goal of t
 
 ---
 
-### Klasifikasi Emosi dan Pemodelan Topik Ulasan Wisatawan di Pacitan
+### Klasifikasi Emosi dan Topik Ulasan Wisata di Pacitan
 
 **Descrption:**  
 This project focuses on text-based emotion classification and topic modeling of Google Maps reviews. The data used are tourist reviews of tourist attractions in Pacitan.
@@ -45,7 +45,7 @@ This project focuses on text-based emotion classification and topic modeling of 
 
 ---
 
-### Model Analisis Sentimen dengan TensorFlow Keras dan LSTM
+### Analisis Sentimen dengan TensorFlow Keras dan LSTM
 
 **Deskripsi:**  
 This project is a text classification task with explanations. The explanations focus on tokenization and embedding, supported by examples of embedding visualizations.
@@ -60,25 +60,7 @@ This project is a text classification task with explanations. The explanations f
 
 ---
 
-### Analisis Sentimen “Pemecatan Shin Tae Yong” Menggunakan Transformers
-
-**Deskripsi:**  
-This is my first project on text and transformers. It involves conducting a sentiment analysis of X's comments regarding Shin Tae Yong's dismissal.
-
-**What i use/done:**  
-- Python
-- Applied IndoBERT for sentimen analysis
-- Writing skills
-- Scrapping data from X
-- Data cleaning for text
-
-**Links:**
-- [GitHub Repository](https://github.com/wildanjr19/analisis-sentimen-sty)  
-- [Medium](https://medium.com/@wildanabidd/analisis-sentimen-pemecatan-shin-tae-yong-menggunakan-transformers-3734fd20bd3e)
-
----
-
-### Analisis Sentimen “Pemecatan Shin Tae Yong” Menggunakan Transformers
+### Sentimen Analisis Pemecatan Shin Tae Yong dengan Transformers
 
 **Deskripsi:**  
 This is my first project on text and transformers. It involves conducting a sentiment analysis of X's comments regarding Shin Tae Yong's dismissal.
@@ -98,7 +80,7 @@ This is my first project on text and transformers. It involves conducting a sent
 
 ## Project by College
 
-### Algorithm-Based Corporate Bankruptcy Classification XGBoost with Data Imbalance Handling Using SMOTE-Tomek Method
+### Klasifikasi Kebangkrutan Perusahaan dengan XGBoost dan SMOTE-Tomek
 
 **Deskripsi:**  
 This project is part of an assignment for the Introductory Data Mining course. The output of this project is an article. The goal of this project is to classify bank customer bankruptcies by comparing three machine learning methods and applying SMOTE-Tomek to handle class imbalance.
@@ -114,7 +96,7 @@ This project is part of an assignment for the Introductory Data Mining course. T
 
 ---
 
-### ANALISIS PERFORMA PENJUALAN KOPI MENGGUNAKAN PENDEKATAN STATISTIK
+### Analisis Penjualan Kopi dengan Pendekatan Statistik
 
 **Deskripsi:**  
 This project is the result of the final assignment for the Management Information Systems course. This project contains an analysis of coffee sales data using statistical approaches.
