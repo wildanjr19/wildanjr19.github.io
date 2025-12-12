@@ -20,7 +20,6 @@ This project focuses on text classification and forecasting tasks. The goal of t
 - Scrapping data from X
 - Data cleaning for text
 
-
 **Links:**  
 - [GitHub Repository](https://github.com/wildanjr19/stock-forecasting-lstm)
 - [Medium](https://medium.com/@wildanabidd/peramalan-harga-penutupan-saham-ihsg-dengan-analisis-sentiment-menggunakan-lstm-7107db868e69) 
@@ -95,14 +94,25 @@ This is my first project on text and transformers. It involves conducting a sent
 - [GitHub Repository](https://github.com/wildanjr19/analisis-sentimen-sty)  
 - [Medium](https://medium.com/@wildanabidd/analisis-sentimen-pemecatan-shin-tae-yong-menggunakan-transformers-3734fd20bd3e)
 
-
-
 ---
 
 ## Project by College
 
----
+### Algorithm-Based Corporate Bankruptcy Classification XGBoost with Data Imbalance Handling Using SMOTE-Tomek Method
 
+**Deskripsi:**  
+This project is part of an assignment for the Introductory Data Mining course. The output of this project is an article. The goal of this project is to classify bank customer bankruptcies by comparing three machine learning methods and applying SMOTE-Tomek to handle class imbalance.
+
+**What i use/done:**  
+- R dan RStudio
+- Comparising three machine learning models (KNN, Random Forest, and XGBoost)
+- Applied SMOTE-Tomek for handle class imbalance
+- Data analysis
+
+**Links:**  
+- [Articles](https://drive.google.com/file/d/1sQqbajtcG0wViYaKYi4GegW3qnK6aV2A/view)
+
+---
 ## Projects by Competition
 
 
