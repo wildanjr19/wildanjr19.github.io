@@ -113,6 +113,21 @@ This project is part of an assignment for the Introductory Data Mining course. T
 - [Articles](https://drive.google.com/file/d/1sQqbajtcG0wViYaKYi4GegW3qnK6aV2A/view)
 
 ---
+
+### ANALISIS PERFORMA PENJUALAN KOPI MENGGUNAKAN PENDEKATAN STATISTIK
+
+**Deskripsi:**  
+This project is the result of the final assignment for the Management Information Systems course. This project contains an analysis of coffee sales data using statistical approaches.
+
+**What i use/done:**  
+- R dan RStudio
+- Use statistic analysis for analytics
+
+**Links:**  
+- [Website](https://wildanjr19.github.io/coffe-chain-analysis/)
+
+
+---
 ## Projects by Competition
 
 
