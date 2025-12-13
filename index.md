@@ -64,7 +64,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - Machine Learning: Regression Analysis
 - Build model to predict average temperature
 
-🏅 **Finalis Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
+🎯 **Finalis Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
 - Image Classification
 - 7/94 Qualification phase  
 - Created a model for image for traditional architecture in Indonesian
@@ -87,7 +87,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
   - Kaggle Leaderboard -> 2/5
   - Final Standing -> Na   
 
-🏅 **25/163 Data Slayer 3.0 2025** | Telkom University 2025
+🎯 **25/163 Data Slayer 3.0 2025** | Telkom University 2025
 - Drowsiness detection
 - Video dan image processing
 - Applied sequence modelling for image
