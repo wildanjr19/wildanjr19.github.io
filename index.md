@@ -86,3 +86,8 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
   - BIO Tagging
   - Kaggle Leaderboard -> 2/5
   - Final Standing -> Na   
+
+🏅 **25/163 Data Slayer 3.0 2025** | Telkom University 2025
+- Drowsiness detection
+- Video dan image processing
+- Applied sequence modelling for image
