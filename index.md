@@ -1,5 +1,5 @@
 ## **Summary**  
-Statistic student at Sebelas Maret University. Interested in Deep Learning, Generative Model, and Natural Language Processing.
+Statistic student at Sebelas Maret University. Interested in Deep Learning, Generative Model, and Natural Language Processing. I like to learn and create something from scratch to deep-understand the work behind. I'm also like to applied machine learning alghoritm and write the real-world study case in Medium. Currently learning MLOps, Vision Transformers, and RAG.
 
 ## **Technical Skills**  
 - Python
@@ -50,6 +50,13 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 ---
 
+## Project
+- 🔗 [**Hybrid Recomendation System with LightFM**](https://github.com/wildanjr19/hybrid-wisata-recsys)  
+Create recomendation system based on Content Based Filtering & Content Filtering with LightFM. This recommendation is about tourism in East Java in Indonesia. Not only modelling the data with LightFM, but i deployed this with simple website deployment. Because is to struggle to find the relevant data, i'm still use a dummy data.
+- 
+
+
+
 ## **Achievements**  
 
 🏆 **1st Place** – **Dokter Data Essay Competition** | Universitas Diponegoro 2025  
@@ -71,7 +78,7 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 - Applied feature extraction for images and combined with MLP classifier
 - Applied DINO by Meta for image extraction
 
-🏅 **Finalis Data Mining Competition ACTION 2025** | Universitas Negeri Surabaya 2025
+🏅 **Finalist Data Mining Competition ACTION 2025** | Universitas Negeri Surabaya 2025
 - Qualification:
   - Image Classification
   - Image Clustering
