@@ -25,6 +25,10 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 ### 🔬 **Research Assistant**
 - Statistic modelling
 
+### **Data Scienctist Intern**
+**DataIns | Jan 2026 - Now**
+- Focues on text mining and processing
+
 ---
 ## **Education**  
 🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Aug 2023 - Present**  
@@ -50,12 +54,15 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 
 ---
 
-## Project
-- 🔗 [**Hybrid Recomendation System with LightFM**](https://github.com/wildanjr19/hybrid-wisata-recsys)  
+## Project Done
+- 🔗 [**Hybrid Recomendation System with LightFM - 2026**](https://github.com/wildanjr19/hybrid-wisata-recsys)  
 Create recomendation system based on Content Based Filtering & Content Filtering with LightFM. This recommendation is about tourism in East Java in Indonesia. Not only modelling the data with LightFM, but i deployed this with simple website deployment. Because is to struggle to find the relevant data, i'm still use a dummy data.
-- 
-
-
+- 🔗 [**Sentiment Analysis and Topic Modeling of the Health Sector in Surakarta City - 2025**](https://github.com/wildanjr19/hybrid-wisata-recsys)  
+This was my internship project at the Surakarta City Communication and Information Service (Diskominfo SP). In this project, I scraped data from over 10,000 Google Maps reviews of hospitals in Surakarta City. I then conducted sentiment analysis on these reviews, followed by topic modeling to identify key topics. Finally, I presented the results of this project to the relevant agencies.
+- 🔗 [**Time Series Anomaly Detection with hybrid LSTM-VAE**](https://github.com/wildanjr19/vae-lstm-ts-anomaly-detection)
+Implementation and experimentation of anomaly detection on time series data. This research uses a hybrid approach, namely using LSTM VAE. The LSTM acts as an encoder to handle time series data, and utilizes the latent space of the VAE to recognize data characteristics. This is an ongoing project.
+- 🔗 [**Air Quality Classification with Deep Learning**](https://github.com/wildanjr19/air-quality-classification)
+Image-based air quality classification. This project applies deep learning, specifically image classification using a transfer learning approach. Users input images of the surrounding sky, and the model then predicts air quality categories.
 
 ## **Achievements**  
 
