@@ -63,6 +63,9 @@ This was my internship project at the Surakarta City Communication and Informati
 Implementation and experimentation of anomaly detection on time series data. This research uses a hybrid approach, namely using LSTM VAE. The LSTM acts as an encoder to handle time series data, and utilizes the latent space of the VAE to recognize data characteristics. This is an ongoing project.
 - 🔗 [**Air Quality Classification with Deep Learning**](https://github.com/wildanjr19/air-quality-classification)
 Image-based air quality classification. This project applies deep learning, specifically image classification using a transfer learning approach. Users input images of the surrounding sky, and the model then predicts air quality categories.
+- 🔗 [**RAG-based culinary recommendation system**](https://instaculinary.my.id/)
+A Retrieval-Augmented Generation (RAG)-based chatbot that provides culinary recommendations in the Surakarta (Solo) and Yogyakarta regions. This project is the result of an internship at DataIns as a Data Scientist.
+Data was collected from Instagram through scraping and then processed into a knowledge base that is used to answer culinary questions accurately and contextually.
 
 ## **Achievements**  
 
@@ -105,3 +108,11 @@ Image-based air quality classification. This project applies deep learning, spec
 - Drowsiness detection
 - Video dan image processing
 - Applied sequence modelling for image
+  
+🏆 **2nd Place** – **Data Vers ANAVA** | Universitas Gadjah Mada 2026  
+- Qualification
+  - Classification
+  - Handle massive data (12M rows)
+- Final
+  - Token Classification
+  - NER 
