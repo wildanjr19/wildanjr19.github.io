@@ -10,8 +10,12 @@ permalink: /cv/
 Statistic student at Sebelas Maret University. Interested in Deep Learning, Generative Model, and Natural Language Processing. I like to learn and create something from scratch to deep-understand the work behind. I'm also like to applied machine learning alghoritm and write the real-world study case in Medium. Currently learning MLOps, Vision Transformers, and RAG.
 
 ## **Technical Skills**  
+- Microsoft Excel
+- Google Sheets
+- R / RStudio
+- Google Looker
 - Python
-- R
+- Deep Learning
 
 ## **Profiles & Portfolio**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/wildanabidalhanif/) | [**GitHub**](https://github.com/wildanjr19) | [**Medium**](https://medium.com/@wildanabidd) | [**Kaggle**](https://www.kaggle.com/wildanabid19)
@@ -63,8 +67,12 @@ Statistic student at Sebelas Maret University. Interested in Deep Learning, Gene
 ---
 
 ## Project Done
-- 🔗 [**Hybrid Recomendation System with LightFM - 2026**](https://github.com/wildanjr19/hybrid-wisata-recsys)  
-Create recomendation system based on Content Based Filtering & Content Filtering with LightFM. This recommendation is about tourism in East Java in Indonesia. Not only modelling the data with LightFM, but i deployed this with simple website deployment. Because is to struggle to find the relevant data, i'm still use a dummy data.
+- [**NYC Taxi Hourly Trip Count Forecasting**](https://github.com/wildanjr19/nyc-taxi-hourly-trip-forecasting)
+  Compare Prophet and XGBoost for hourly NYC taxi trip forecasting with a 24-hour horizon, feature engineering, and expanding-window validation.
+- [**Sentiment Analysis of Shin Tae-yong's Dismissal**](https://github.com/wildanjr19/analisis-sentimen-sty)
+  Sentiment analysis using IndoBERT, with methods and discussion documented in a Medium case study.
+- [**IHSG Forecasting with LSTM and Daily Sentiment**](https://github.com/wildanjr19/stock-forecasting-lstm)
+  Explore IHSG closing-value forecasting using LSTM and daily sentiment scores from posts on X as an additional predictor.
 - 🔗 [**Sentiment Analysis and Topic Modeling of the Health Sector in Surakarta City**](https://github.com/wildanjr19/analisis-sentimen-pemodelan-topik-kesehatan-surakarta)
 This was my internship project at the Surakarta City Communication and Information Service (Diskominfo SP). In this project, I scraped data from over 10,000 Google Maps reviews of hospitals in Surakarta City. I then conducted sentiment analysis on these reviews, followed by topic modeling to identify key topics. Finally, I presented the results of this project to the relevant agencies.
 - 🔗 [**Time Series Anomaly Detection with hybrid LSTM-VAE**](https://github.com/wildanjr19/vae-lstm-ts-anomaly-detection)

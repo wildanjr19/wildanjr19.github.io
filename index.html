@@ -95,7 +95,7 @@
           <div class="visual-topline">
             <span
               ><span class="small-square"></span> A CLOSER LOOK AT MY WORK</span
-            ><span>01 / 06</span>
+            ><span>01 / 08</span>
           </div>
           <div class="insight-card">
             <div class="insight-heading">
@@ -177,7 +177,7 @@
         </div>
         <div class="project-filters" role="group" aria-label="Filter proyek">
           <button class="filter active" data-filter="all" aria-pressed="true">
-            Semua proyek <span>06</span></button
+            Semua proyek <span>08</span></button
           ><button class="filter" data-filter="analysis" aria-pressed="false">
             Analisis data</button
           ><button class="filter" data-filter="nlp" aria-pressed="false">
@@ -187,7 +187,7 @@
           </button>
         </div>
         <p id="filter-status" class="sr-only" role="status" aria-live="polite">
-          Menampilkan 6 proyek.
+          Menampilkan 8 proyek.
         </p>
 
         <div class="projects-grid">
@@ -273,10 +273,91 @@
             </div>
           </article>
 
+          <article class="project-card" data-category="analysis ml">
+            <div class="project-art art-taxi" aria-hidden="true">
+              <div class="art-top">
+                <span>02 / DEMAND FORECASTING</span><span>NYC TAXI</span>
+              </div>
+              <svg class="timeseries-chart" viewBox="0 0 460 150" fill="none">
+                <path
+                  class="signal-grid"
+                  d="M0 35H460M0 75H460M0 115H460M50 0V150M140 0V150M230 0V150M320 0V150M410 0V150"
+                />
+                <rect
+                  x="313"
+                  y="0"
+                  width="147"
+                  height="150"
+                  fill="#c2d6c6"
+                  opacity=".45"
+                  rx="6"
+                />
+                <path
+                  d="M0 110L20 101L40 115L60 83L80 50L100 65L120 99L140 109L160 91L180 67L200 31L220 48L240 89L260 101L280 85L300 55L320 24L340 43L360 76L380 100L400 90L420 64L440 35L460 46"
+                  stroke="#567c6b"
+                  stroke-width="2.5"
+                  stroke-linejoin="round"
+                />
+                <path
+                  d="M313 40L330 30L350 56L370 84L390 96L410 78L430 49L450 35L460 43"
+                  stroke="#9e7435"
+                  stroke-width="2.5"
+                  stroke-dasharray="5 5"
+                  stroke-linejoin="round"
+                />
+              </svg>
+              <div class="art-bottom">
+                <span>PROPHET / XGBOOST · ILUSTRASI FORECAST</span
+                ><span>24-HOUR HORIZON</span>
+              </div>
+            </div>
+            <div class="project-content">
+              <div class="project-meta">
+                <span>ANALISIS DATA · FORECASTING</span
+                ><span>STUDI KOMPARATIF</span>
+              </div>
+              <h3>Memperkirakan jumlah perjalanan taksi NYC per jam.</h3>
+              <p>
+                Membandingkan Prophet dan XGBoost untuk memprediksi jumlah
+                perjalanan taksi New York per jam, dengan horizon peramalan 24
+                jam.
+              </p>
+              <dl class="project-details">
+                <div>
+                  <dt>Proses</dt>
+                  <dd>
+                    Eksplorasi data, fitur lag dan kalender, expanding-window
+                    validation, serta evaluasi tanpa data leakage.
+                  </dd>
+                </div>
+                <div>
+                  <dt>Luaran</dt>
+                  <dd>
+                    Pipeline eksperimen, visualisasi, dan perbandingan model
+                    dengan MAE, RMSE, MAPE, serta sMAPE.
+                  </dd>
+                </div>
+              </dl>
+              <div class="project-bottom">
+                <div class="tags">
+                  <span>Python</span><span>Prophet</span><span>XGBoost</span>
+                </div>
+                <a
+                  class="project-link"
+                  href="https://github.com/wildanjr19/nyc-taxi-hourly-trip-forecasting"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Lihat proyek peramalan perjalanan taksi NYC di GitHub"
+                  >Lihat proyek <span aria-hidden="true">↗</span></a
+                >
+              </div>
+            </div>
+          </article>
+
           <article class="project-card" data-category="nlp">
             <div class="project-art art-rag" aria-hidden="true">
               <div class="art-top">
-                <span>02 / APPLIED AI</span><span>INSTACULINARY</span>
+                <span>03 / APPLIED AI</span><span>INSTACULINARY</span>
               </div>
               <div class="rag-visual">
                 <div class="chat-question">
@@ -345,7 +426,7 @@
           <article class="project-card" data-category="analysis ml">
             <div class="project-art art-timeseries" aria-hidden="true">
               <div class="art-top">
-                <span>03 / TIME SERIES</span><span>DETECT THE UNEXPECTED</span>
+                <span>04 / TIME SERIES</span><span>DETECT THE UNEXPECTED</span>
               </div>
               <svg class="timeseries-chart" viewBox="0 0 460 150" fill="none">
                 <path
@@ -408,51 +489,79 @@
             </div>
           </article>
 
-          <article class="project-card" data-category="ml">
-            <div class="project-art art-recsys" aria-hidden="true">
-              <div class="art-top">
-                <span>04 / RECOMMENDER SYSTEM</span><span>PERSONALIZATION</span>
-              </div>
-              <div class="recsys-visual">
-                <div class="recsys-person">Preferensi pengguna</div>
-                <div class="recsys-path">↓</div>
-                <div class="recsys-options">
-                  <span><b>↟</b>Wisata alam</span><span><b>⌂</b>Budaya</span
-                  ><span><b>≈</b>Pantai</span>
-                </div>
-              </div>
-              <div class="art-bottom">
-                <span>CONTENT + COLLABORATIVE FILTERING</span
-                ><span>JAWA TIMUR</span>
-              </div>
-            </div>
+          <article
+            class="project-card compact-project"
+            data-category="analysis nlp"
+          >
+            <div class="compact-icon" aria-hidden="true">≋</div>
             <div class="project-content">
               <div class="project-meta">
-                <span>MACHINE LEARNING</span><span>PROTOTIPE</span>
+                <span>ANALISIS SENTIMEN · NLP</span><span>05</span>
               </div>
-              <h3>Menemukan destinasi wisata yang lebih relevan.</h3>
+              <h3>Membaca opini publik tentang pemecatan Shin Tae-yong.</h3>
               <p>
-                Sistem rekomendasi wisata Jawa Timur dengan pendekatan hybrid
-                LightFM. Model diintegrasikan ke website sederhana untuk mencoba
-                rekomendasi.
-              </p>
-              <p class="project-note">
-                Prototipe menggunakan data dummy untuk mengeksplorasi pendekatan
-                rekomendasi.
+                Analisis sentimen menggunakan IndoBERT untuk mengeksplorasi
+                respons terhadap pemecatan Shin Tae-yong. Metode dan
+                pembahasannya juga ditulis dalam artikel studi kasus.
               </p>
               <div class="project-bottom">
                 <div class="tags">
-                  <span>LightFM</span><span>Hybrid filtering</span>
+                  <span>IndoBERT</span><span>Transformers</span>
                 </div>
                 <a
                   class="project-link"
-                  href="https://github.com/wildanjr19/hybrid-wisata-recsys"
+                  href="https://github.com/wildanjr19/analisis-sentimen-sty"
                   target="_blank"
                   rel="noopener noreferrer"
-                  aria-label="Lihat proyek rekomendasi wisata di GitHub"
+                  aria-label="Lihat proyek analisis sentimen Shin Tae-yong di GitHub"
                   >Lihat proyek <span aria-hidden="true">↗</span></a
                 >
               </div>
+              <a
+                class="report-link"
+                href="https://medium.com/@wildanabidd/analisis-sentimen-pemecatan-shin-tae-yong-menggunakan-transformers-3734fd20bd3e"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Baca studi kasus <span aria-hidden="true">↗</span></a
+              >
+            </div>
+          </article>
+
+          <article
+            class="project-card compact-project"
+            data-category="analysis nlp ml"
+          >
+            <div class="compact-icon" aria-hidden="true">∿</div>
+            <div class="project-content">
+              <div class="project-meta">
+                <span>FORECASTING · DEEP LEARNING</span><span>06</span>
+              </div>
+              <h3>Menggabungkan deret waktu IHSG dan sentimen harian.</h3>
+              <p>
+                Eksperimen peramalan nilai penutupan IHSG menggunakan LSTM,
+                dengan skor sentimen harian dari unggahan X sebagai variabel
+                prediktor tambahan.
+              </p>
+              <div class="project-bottom">
+                <div class="tags">
+                  <span>LSTM</span><span>Sentiment analysis</span>
+                </div>
+                <a
+                  class="project-link"
+                  href="https://github.com/wildanjr19/stock-forecasting-lstm"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Lihat proyek peramalan IHSG dengan LSTM di GitHub"
+                  >Lihat proyek <span aria-hidden="true">↗</span></a
+                >
+              </div>
+              <a
+                class="report-link"
+                href="https://medium.com/@wildanabidd/peramalan-harga-penutupan-saham-ihsg-dengan-analisis-sentiment-menggunakan-lstm-7107db868e69"
+                target="_blank"
+                rel="noopener noreferrer"
+                >Baca studi kasus <span aria-hidden="true">↗</span></a
+              >
             </div>
           </article>
 
@@ -460,7 +569,7 @@
             <div class="compact-icon" aria-hidden="true">↗</div>
             <div class="project-content">
               <div class="project-meta">
-                <span>COMPUTER VISION</span><span>05</span>
+                <span>COMPUTER VISION</span><span>07</span>
               </div>
               <h3>Membaca kualitas udara dari citra langit.</h3>
               <p>
@@ -480,11 +589,12 @@
               </div>
             </div>
           </article>
+
           <article class="project-card compact-project" data-category="ml">
             <div class="compact-icon" aria-hidden="true">ƒ</div>
             <div class="project-content">
               <div class="project-meta">
-                <span>FUNDAMENTALS</span><span>06</span>
+                <span>FUNDAMENTALS</span><span>08</span>
               </div>
               <h3>Memahami machine learning dari fondasinya.</h3>
               <p>
@@ -536,6 +646,17 @@
               Metode mengikuti pertanyaan yang ingin dijawab. Hasil analisis
               harus bisa dijelaskan, bukan hanya dijalankan.
             </p>
+          </div>
+          <div class="toolkit">
+            <p class="micro-label">TOOLS & TECHNOLOGIES</p>
+            <ul aria-label="Keahlian dan perangkat">
+              <li>Microsoft Excel</li>
+              <li>Google Sheets</li>
+              <li>R / RStudio</li>
+              <li>Google Looker</li>
+              <li>Python</li>
+              <li>Deep Learning (DL)</li>
+            </ul>
           </div>
           <div class="skills-grid">
             <article>
