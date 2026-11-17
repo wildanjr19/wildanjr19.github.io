@@ -58,10 +58,26 @@ nav a { padding-block: 10px; }
 .section { padding-block: 86px; }
 #proyek, .freelance-section { border-top: 1px solid var(--line); }
 .freelance-section .section-heading > .text-link { font-size: 15px; }
-.freelance-list { border-top: 1px solid var(--line); }
-.freelance-work { display: grid; grid-template-columns: 36px minmax(0, 1fr) auto; align-items: baseline; gap: 26px; padding-block: 28px; border-bottom: 1px solid var(--line); }
-.freelance-work h3 { font-size: 24px; line-height: 1.4; letter-spacing: -.65px; }
-.freelance-work > p { color: var(--muted); font-size: 15px; }
+.freelance-intro { max-width: 720px; margin-top: -18px; margin-bottom: 30px; color: var(--muted); font-size: 16px; line-height: 1.75; }
+.freelance-ledger { border-top: 1px solid var(--line); }
+.freelance-card { display: grid; grid-template-columns: 36px minmax(0, 1fr); gap: 26px; padding-block: 28px; border-bottom: 1px solid var(--line); }
+.freelance-body { min-width: 0; }
+.freelance-head { display: flex; align-items: baseline; justify-content: space-between; gap: 20px; }
+.freelance-card h3 { font-size: 22px; line-height: 1.35; letter-spacing: -.55px; }
+.freelance-result { flex-shrink: 0; color: var(--green); white-space: nowrap; }
+.freelance-result strong { font: 650 30px/1 var(--heading); letter-spacing: -1.2px; }
+.freelance-result span { margin-left: 6px; color: var(--muted); font: 12px/1.5 var(--mono); letter-spacing: .3px; }
+.freelance-note { margin-top: 8px; color: var(--muted); font-size: 15px; line-height: 1.65; }
+.freelance-tools { margin-top: 10px; color: var(--muted); font: 12px/1.7 var(--mono); }
+.freelance-card .project-method { margin-top: 12px; }
+.freelance-detail { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); color: var(--muted); font-size: 15px; line-height: 1.75; }
+.freelance-detail p + p { margin-top: 10px; }
+.freelance-other { margin-top: 18px; color: var(--muted); font-size: 14px; }
+.freelance-principles { display: grid; grid-template-columns: 1fr 2fr; gap: 40px; margin-top: 28px; padding-block: 24px; border-top: 1px solid var(--line); }
+.freelance-principles .micro-label { padding-top: 3px; }
+.freelance-principles ul { margin: 0; padding-left: 20px; color: var(--muted); font-size: 15px; line-height: 1.7; }
+.freelance-principles li + li { margin-top: 6px; }
+.freelance-principles code { font: .9em var(--mono); color: var(--ink); background: #3e5f4412; padding: 2px 5px; white-space: nowrap; }
 .section-heading { display: flex; justify-content: space-between; align-items: flex-end; gap: 50px; margin-bottom: 38px; }
 h2 { font-size: clamp(30px, 3vw, 42px); line-height: 1.3; letter-spacing: -1.5px; }
 .section-heading h2 { margin-top: 12px; }
@@ -170,9 +186,19 @@ h2 { font-size: clamp(30px, 3vw, 42px); line-height: 1.3; letter-spacing: -1.5px
   .section { padding-block: 56px; }
   .section-heading { display: block; margin-bottom: 28px; }
   .freelance-section .section-heading > .text-link { margin-top: 20px; }
-  .freelance-work { grid-template-columns: 27px minmax(0, 1fr); gap: 8px 12px; padding-block: 24px; }
-  .freelance-work h3 { font-size: 22px; }
-  .freelance-work > p { grid-column: 2; font-size: 14px; }
+  .freelance-intro { margin-top: -8px; margin-bottom: 24px; }
+  .freelance-card { grid-template-columns: 27px minmax(0, 1fr); gap: 12px; padding-block: 24px; }
+  .freelance-head { display: block; }
+  .freelance-card h3 { font-size: 20px; }
+  .freelance-result { margin-top: 8px; }
+  .freelance-result strong { font-size: 26px; }
+  .freelance-result span { font-size: 11px; }
+  .freelance-note { font-size: 14px; }
+  .freelance-tools { font-size: 11px; }
+  .freelance-detail { font-size: 14px; }
+  .freelance-principles { grid-template-columns: 1fr; gap: 12px; padding-block: 20px; }
+  .freelance-principles .micro-label { padding-top: 0; }
+  .freelance-principles ul { font-size: 14px; }
   h2 { font-size: 31px; letter-spacing: -1px; }
   .section-description { margin-top: 16px; max-width: 460px; }
   .project-filters { gap: 4px 20px; }
