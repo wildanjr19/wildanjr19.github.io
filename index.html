@@ -773,8 +773,8 @@
        <details class="project-method">
         <summary>Proses &amp; catatan</summary>
         <div class="freelance-detail">
-         <p>Klien mengirim daftar nama perusahaan. Saya cari lewat Serper, tarik nomor dari tautan wa.me, wa.link, atau teks 08/62, normalisasi ke 628, lalu validasi dengan LLM. Halaman yang butuh JavaScript saya buka dengan Playwright.</p>
-         <p>Dedup pakai nama saja gagal karena satu grup punya banyak PT. Cross-validate antar sumber lebih menentukan daripada jumlah nomor.</p>
+         <p>Serper untuk pencarian, Playwright untuk halaman JavaScript. Nomor dari wa.me, wa.link, atau teks 08/62 dinormalisasi ke 628 lalu divalidasi LLM.</p>
+         <p>Dedup berbasis nama gagal karena satu grup punya banyak PT. Validasi lintas sumber lebih menentukan.</p>
         </div>
        </details>
       </div>
@@ -791,8 +791,8 @@
        <details class="project-method">
         <summary>Proses &amp; catatan</summary>
         <div class="freelance-detail">
-         <p>Sumbernya PDF daftar penyalur LPG tabung tanpa tabel rapi. Saya ekstrak per halaman, cocokkan header dan jumlah baris dengan token wilayah, lalu pecah jadi 29 CSV per provinsi. Ada 689 alamat kosong yang dibiarkan karena sumbernya kosong.</p>
-         <p>Kontak 831 agen Jabodetabek dicari lewat Google Maps: 81 nomor HP terpilih, 176 kandidat, 253 hanya telepon non-HP, 321 tanpa nomor. Uji OSM 5.396 objek menghasilkan 58 tag kontak dan 0 cocok; hasil nol itu dilaporkan.</p>
+         <p>Ekstraksi per halaman dari PDF tanpa tabel rapi. Header dan jumlah baris dicocokkan dengan token wilayah; hasilnya 29 CSV provinsi, 689 alamat kosong dibiarkan.</p>
+         <p>Kontak 831 agen Jabodetabek dari Google Maps: 81 HP terpilih, 176 kandidat, 253 non-HP, 321 tanpa nomor. Uji OSM 5.396 objek: 58 tag kontak, 0 cocok.</p>
         </div>
        </details>
       </div>
@@ -809,8 +809,8 @@
        <details class="project-method">
         <summary>Proses &amp; catatan</summary>
         <div class="freelance-detail">
-         <p>Dua run Apify: 40.000 dan 56.446 baris. Dari 56.446 baris, 27.749 tidak punya teks. Setelah dibersihkan, 28.697 ulasan berteks masuk ke 7 kolom CSV/XLSX, plus satu Excel Januari sampai November 2026.</p>
-         <p>Yang dikirim bukan 56 ribu baris, tapi 28 ribu baris yang bisa dipakai untuk analisis sentimen.</p>
+         <p>Dua run Apify: 40.000 dan 56.446 baris. 27.749 baris tanpa teks dibuang; 28.697 ulasan berteks masuk ke 7 kolom CSV/XLSX dan satu Excel Januari sampai November 2026.</p>
+         <p>Yang dikirim 28 ribu baris berteks, bukan 56 ribu baris mentah.</p>
         </div>
        </details>
       </div>
@@ -827,8 +827,8 @@
        <details class="project-method">
         <summary>Proses &amp; catatan</summary>
         <div class="freelance-detail">
-         <p>Discovery pakai Gosom dengan grid 1 km: 2.944 job sukses, 4.918 tempat unik, 2.918 kandidat untuk Jakarta Selatan. Pilot 30 tempat: 240 ulasan dinilai, 30 foto makanan terpilih, 93 ulasan masuk untuk 28 tempat.</p>
-         <p>Status buka/tutup dan kisaran harga tidak didapat karena Google Maps membatasi tampilan untuk browser otomatis. Kolom itu dikosongkan, bukan ditebak. Produksi 2.918 tempat menunggu instruksi.</p>
+         <p>Gosom grid 1 km: 2.944 job sukses, 4.918 tempat unik, 2.918 kandidat Jakarta Selatan. Pilot 30 tempat: 240 ulasan, 30 foto, 93 ulasan untuk 28 tempat.</p>
+         <p>Harga dan status buka kosong karena Google Maps membatasi tampilan untuk browser otomatis. Produksi 2.918 tempat menunggu instruksi.</p>
         </div>
        </details>
       </div>
@@ -845,8 +845,8 @@
        <details class="project-method">
         <summary>Proses &amp; catatan</summary>
         <div class="freelance-detail">
-         <p>Tiga sumber saya ubah jadi tabel yang bisa difilter: 194 KAP dari OJK 2016, 483 KAP dari Kemenkeu 2023, dan 451 KJA dari Kemenkeu. Dua dokumen dibaca dengan pdfplumber; saat tabelnya terpotong, saya baca kata per posisi x dan y.</p>
-         <p>Satu dokumen hanya tersedia sebagai halaman Scribd, jadi saya unduh per halaman dan susun ulang. Nomor telepon dirapikan dengan script terpisah supaya nomor yang menempel tidak tertukar dengan nama.</p>
+         <p>194 KAP OJK 2016, 483 KAP Kemenkeu 2023, 451 KJA Kemenkeu; total 1.128 entitas. pdfplumber untuk dua dokumen, tabel terpotong dibaca per posisi x dan y.</p>
+         <p>Satu dokumen dari Scribd diunduh per halaman lalu disusun ulang. Nomor telepon dirapikan dengan script terpisah.</p>
         </div>
        </details>
       </div>
@@ -863,8 +863,8 @@
        <details class="project-method">
         <summary>Proses &amp; catatan</summary>
         <div class="freelance-detail">
-         <p>Klien minta enam kolom: comment_id, comment_text, date, likes, reel_url, parent_comment_id. Hasil akhir: 3.462 baris, 2.651 komentar utama dan 811 balasan, 0 invalid, 0 orphan. Ada 411 teks kosong yang dibiarkan, dan 25 record ditahan karena parent-nya tidak ditemukan.</p>
-         <p>Saya menjalankan 208 unit test, membandingkan 6 pasang CSV/XLSX, dan memeriksa hash 416 file input. Pembanding browser mencatat 2.963 komentar dan 2.737 ID; selisih 226 dilaporkan, bukan ditutup.</p>
+         <p>Enam kolom: comment_id, comment_text, date, likes, reel_url, parent_comment_id. Hasil: 3.462 baris, 2.651 komentar, 811 balasan, 0 invalid, 0 orphan; 411 teks kosong, 25 record ditahan.</p>
+         <p>208 unit test, 6 pasang CSV/XLSX, 416 hash input. Pembanding browser: 2.963 komentar, 2.737 ID, selisih 226 dilaporkan.</p>
         </div>
        </details>
       </div>

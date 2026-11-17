@@ -30,7 +30,7 @@ Tidak ada nama klien, industri klien, status berbayar, durasi, tarif, testimoni,
 
 - `index.html`: section freelance diganti ledger enam baris, intro, footnote, dan blok cara kerja.
 - `assets/style.css`: gaya ledger, angka hasil, detail, footnote, dan prinsip kerja. Aturan `freelance-list` dan `freelance-work` yang lama dihapus.
-- Screenshot: `desktop.png`, `mobile-390.png`, `freelance-desktop.png`, `freelance-mobile.png`, `freelance-open.png`.
+- Screenshot: `desktop.png`, `mobile-390.png`, `freelance-desktop.png`, `freelance-mobile.png`.
 
 ## Verifikasi
 
