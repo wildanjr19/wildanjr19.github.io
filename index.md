@@ -20,13 +20,13 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 ## Profiles & Portfolio
 
-[LinkedIn](https://www.linkedin.com/in/wildanabidalhanif/) | [GitHub](https://github.com/wildanjr19) | [Medium](https://medium.com/@wildanabidd) | [Kaggle](https://www.kaggle.com/wildanabid19)
+[LinkedIn](https://www.linkedin.com/in/wildanabidalhanif/) · [GitHub](https://github.com/wildanjr19) · [Medium](https://medium.com/@wildanabidd) · [Kaggle](https://www.kaggle.com/wildanabid19)
 
 ## Experience
 
 ### Project-Based Intern
 
-**Dinas Komunikasi Informatika Statistik dan Persandian Surakarta | Aug 2024 - Sep 2024**
+**Dinas Komunikasi Informatika Statistik dan Persandian Surakarta · Aug 2024 - Sep 2024**
 
 - Project: Sentiment Analysis and Topic Modeling of the Health Sector in Surakarta.
 - Scraped 10,000+ Google Maps reviews.
@@ -43,13 +43,13 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 ### Data Scientist Intern
 
-**DataIns | Jan 2026 - Present**
+**DataIns · Jan 2026 - Present**
 
 - Focuses on text mining and processing.
 
 ## Education
 
-**B.S. in Statistics** | Universitas Sebelas Maret | **Aug 2023 - Present**
+**B.S. in Statistics** · Universitas Sebelas Maret · **Aug 2023 - Present**
 
 ## Top Repositories
 
@@ -103,22 +103,22 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 ## Achievements
 
-**1st Place: Dokter Data Essay Competition** | Universitas Diponegoro 2025
+**1st Place: Dokter Data Essay Competition** · Universitas Diponegoro 2025
 
 - Implemented a U-Net model to segment deforestation in Obi Island.
 
-**Finalist, SRIFOTON Machine Learning Competition 2025** | Universitas Sriwijaya 2025
+**Finalist, SRIFOTON Machine Learning Competition 2025** · Universitas Sriwijaya 2025
 
 - Image classification.
 - Built a model to classify lung disease from images.
 - Applied deep learning.
 
-**25th of 92, Data Mining Intelecta Cup 2025** | Telkom University 2025
+**25th of 92, Data Mining Intelecta Cup 2025** · Telkom University 2025
 
 - Machine learning: regression analysis.
 - Built a model to predict average temperature.
 
-**Finalist, Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
+**Finalist, Data Science Competition LOGIKA UI 2025** · Universitas Indonesia 2025
 
 - Image classification.
 - 7th of 94 in the qualification phase.
@@ -126,7 +126,7 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 - Applied image feature extraction and combined it with an MLP classifier.
 - Used DINO by Meta for feature extraction.
 
-**Finalist, Data Mining Competition ACTION 2025** | Universitas Negeri Surabaya 2025
+**Finalist, Data Mining Competition ACTION 2025** · Universitas Negeri Surabaya 2025
 
 - Qualification:
   - Image classification
@@ -142,13 +142,13 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
   - BIO tagging
   - Kaggle leaderboard: 2nd of 5
 
-**25th of 163, Data Slayer 3.0 2025** | Telkom University 2025
+**25th of 163, Data Slayer 3.0 2025** · Telkom University 2025
 
 - Drowsiness detection.
 - Video and image processing.
 - Applied sequence modeling to images.
 
-**2nd Place: Data Vers ANAVA** | Universitas Gadjah Mada 2026
+**2nd Place: Data Vers ANAVA** · Universitas Gadjah Mada 2026
 
 - Qualification:
   - Classification
