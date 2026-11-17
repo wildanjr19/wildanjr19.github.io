@@ -4,17 +4,18 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
   <meta content="#DDD6B9" name="theme-color"/>
-  <title>
-   Wildan Abid Al Hanif — Data Analysis &amp; Machine Learning
-  </title>
+  <title>Wildan Abid Al Hanif · Data Analysis &amp; Machine Learning</title>
   <meta content="Portofolio Wildan Abid Al Hanif, mahasiswa Statistika UNS. Eksplorasi data, analisis sentimen, visualisasi, dan machine learning dalam proyek nyata." name="description"/>
   <meta content="website" property="og:type"/>
-  <meta content="Wildan Abid Al Hanif — Data Analysis &amp; Machine Learning" property="og:title"/>
+  <meta content="Wildan Abid Al Hanif · Data Analysis &amp; Machine Learning" property="og:title"/>
   <meta content="Portofolio Wildan Abid Al Hanif. Proyek analisis data, natural language processing, dan machine learning; pengalaman dan tulisan." property="og:description"/>
   <meta content="id_ID" property="og:locale"/>
   <meta content="https://wildanjr19.github.io/" property="og:url"/>
   <link href="https://wildanjr19.github.io/" rel="canonical"/>
   <link href="assets/favicon.svg" rel="icon" type="image/svg+xml"/>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@650;800&amp;display=swap" rel="stylesheet"/>
   <link href="assets/style.css" rel="stylesheet"/>
   <script defer="" src="assets/main.js">
   </script>
@@ -25,16 +26,13 @@
   </a>
   <header class="site-header">
    <div class="container nav-wrap">
-    <a aria-label="Wildan Abid, beranda" class="wordmark" href="#">
-     wildan
-     <span class="wordmark-dot">
-      .
-     </span>
+    <a aria-label="wildan, portofolio, beranda" class="wordmark" href="#">
+     wildan<span class="wordmark-dot">.</span>
      <span class="wordmark-label">
       / PORTOFOLIO
      </span>
     </a>
-    <button aria-controls="navigation" aria-expanded="false" aria-label="Buka navigasi" class="menu-toggle">
+    <button aria-controls="navigation" aria-expanded="false" aria-label="Buka navigasi" class="menu-toggle" type="button">
      <span>
      </span>
      <span>
@@ -55,9 +53,6 @@
      </a>
      <a class="nav-contact" href="#kontak">
       Kontak
-      <span aria-hidden="true">
-       ↗
-      </span>
      </a>
     </nav>
    </div>
@@ -65,16 +60,10 @@
   <main id="main">
    <section aria-labelledby="hero-title" class="hero container">
     <div class="hero-name">
-     <p class="eyebrow">
-      PORTOFOLIO / WILDAN ABID
-     </p>
      <h1 id="hero-title">
       Wildan Abid
       <br/>
-      Al Hanif
-      <span class="accent">
-       .
-      </span>
+      Al Hanif<span class="accent">.</span>
      </h1>
      <p class="hero-role">
       Data analysis &amp; machine learning
@@ -89,19 +78,22 @@
      </p>
      <a class="text-link" href="#freelance">
       Lihat pengalaman freelance
-      <span aria-hidden="true">
-       ↘
-      </span>
      </a>
-     <div aria-label="Profil dan CV" class="hero-profiles">
+     <div aria-label="Profil dan CV" class="hero-profiles" role="group">
       <a href="https://github.com/wildanjr19" rel="noopener noreferrer" target="_blank">
-       GitHub ↗
+       GitHub
+       <span aria-hidden="true">
+        ↗
+       </span>
       </a>
       <a href="https://www.linkedin.com/in/wildanabidalhanif/" rel="noopener noreferrer" target="_blank">
-       LinkedIn ↗
+       LinkedIn
+       <span aria-hidden="true">
+        ↗
+       </span>
       </a>
       <a href="/cv/">
-       CV ↗
+       CV
       </a>
      </div>
     </div>
@@ -110,9 +102,9 @@
     <div class="section-heading">
      <div>
       <p class="eyebrow">01 / FREELANCE</p>
-      <h2 id="freelance-title">Pengalaman Freelance</h2>
+      <h2 id="freelance-title">Pengalaman freelance</h2>
      </div>
-     <a class="text-link" href="#kontak">Diskusikan pekerjaan <span aria-hidden="true">↗</span></a>
+     <a class="text-link" href="#kontak">Diskusikan pekerjaan</a>
     </div>
     <div class="freelance-list">
      <article class="freelance-work">
@@ -134,31 +126,31 @@
        02 / PROYEK
       </p>
       <h2 id="projects-title">
-       Eksplorasi &amp; proyek
+       Proyek &amp; eksperimen
       </h2>
      </div>
     </div>
     <div aria-label="Filter proyek" class="project-filters" role="group">
-     <button aria-pressed="true" class="filter active" data-filter="all">
+     <button aria-controls="projects-list" aria-pressed="true" class="filter active" data-filter="all" type="button">
       Semua proyek
-      <span>
+      <span aria-hidden="true">
        08
       </span>
      </button>
-     <button aria-pressed="false" class="filter" data-filter="analysis">
+     <button aria-controls="projects-list" aria-pressed="false" class="filter" data-filter="analysis" type="button">
       Analisis data
      </button>
-     <button aria-pressed="false" class="filter" data-filter="nlp">
+     <button aria-controls="projects-list" aria-pressed="false" class="filter" data-filter="nlp" type="button">
       NLP &amp; AI
      </button>
-     <button aria-pressed="false" class="filter" data-filter="ml">
+     <button aria-controls="projects-list" aria-pressed="false" class="filter" data-filter="ml" type="button">
       Machine learning
      </button>
     </div>
     <p aria-live="polite" class="sr-only" id="filter-status" role="status">
      Menampilkan 8 proyek.
     </p>
-    <div class="projects-list">
+    <div class="projects-list" id="projects-list">
      <article class="project-card" data-category="analysis nlp">
       <span aria-hidden="true" class="project-number">
        01
@@ -374,7 +366,7 @@
         </span>
        </div>
        <h3>
-        Deteksi anomali deret waktu dengan LSTM–VAE
+        Deteksi anomali deret waktu dengan LSTM-VAE
        </h3>
        <div class="tags">
         <span>
@@ -556,9 +548,12 @@
       </div>
      </article>
     </div>
+    <p class="projects-empty" hidden id="projects-empty">
+     Belum ada proyek di kategori ini. Pilih Semua proyek untuk melihat semuanya.
+    </p>
     <div class="more-projects">
      <span>
-      Masih ada eksperimen lainnya di balik layar.
+      Eksperimen lain ada di GitHub.
      </span>
      <a class="text-link" href="https://github.com/wildanjr19?tab=repositories" rel="noopener noreferrer" target="_blank">
       Semua repositori
@@ -582,7 +577,7 @@
      </div>
      <div class="toolkit">
       <p class="micro-label">
-       Skils
+       Perangkat
       </p>
       <ul aria-label="Keahlian dan perangkat">
        <li>
@@ -601,7 +596,7 @@
         Python
        </li>
        <li>
-        Deep Learning (DL)
+        Deep learning
        </li>
       </ul>
      </div>
@@ -704,7 +699,7 @@
      <div class="timeline">
       <article>
        <span class="timeline-date">
-        MULAI JAN 2026
+        SEJAK JAN 2026
        </span>
        <h4>
         Data Scientist Intern
@@ -718,7 +713,7 @@
       </article>
       <article>
        <span class="timeline-date">
-        AGU — SEP 2024
+        AGU 2024 - SEP 2024
        </span>
        <h4>
         Project-Based Intern
@@ -796,11 +791,8 @@
    </section>
   </main>
   <footer class="site-footer container">
-   <a aria-label="Kembali ke atas" class="wordmark" href="#">
-    wildan
-    <span class="wordmark-dot">
-     .
-    </span>
+   <a aria-label="wildan, kembali ke atas" class="wordmark" href="#">
+    wildan<span class="wordmark-dot">.</span>
    </a>
    <p>
     Wildan Abid Al Hanif
@@ -813,13 +805,22 @@
    </p>
    <div class="footer-links">
     <a href="https://github.com/wildanjr19" rel="noopener noreferrer" target="_blank">
-     GitHub ↗
+     GitHub
+     <span aria-hidden="true">
+      ↗
+     </span>
     </a>
     <a href="https://www.linkedin.com/in/wildanabidalhanif/" rel="noopener noreferrer" target="_blank">
-     LinkedIn ↗
+     LinkedIn
+     <span aria-hidden="true">
+      ↗
+     </span>
     </a>
     <a href="https://www.kaggle.com/wildanabid19" rel="noopener noreferrer" target="_blank">
-     Kaggle ↗
+     Kaggle
+     <span aria-hidden="true">
+      ↗
+     </span>
     </a>
    </div>
   </footer>

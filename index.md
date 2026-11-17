@@ -1,134 +1,158 @@
 ---
-layout: default
+layout: cv
 title: Curriculum Vitae
+description: Curriculum vitae of Wildan Abid Al Hanif, Statistics student at Sebelas Maret University.
 permalink: /cv/
 ---
 
-[← Kembali ke portofolio](/)
+## Summary
 
-## **Summary**  
-Statistic student at Sebelas Maret University. Interested in Deep Learning, Generative Model, and Natural Language Processing. I like to learn and create something from scratch to deep-understand the work behind. I'm also like to applied machine learning alghoritm and write the real-world study case in Medium. Currently learning MLOps, Vision Transformers, and RAG.
+Statistics student at Sebelas Maret University. Interested in deep learning, generative models, and natural language processing. I like to build things from scratch to understand how they work. I also apply machine learning algorithms and write real-world case studies on Medium. Currently learning MLOps, Vision Transformers, and RAG.
 
-## **Technical Skills**  
+## Technical Skills
+
 - Microsoft Excel
 - Google Sheets
 - R / RStudio
 - Google Looker
 - Python
-- Deep Learning
+- Deep learning
 
-## **Profiles & Portfolio**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/wildanabidalhanif/) | [**GitHub**](https://github.com/wildanjr19) | [**Medium**](https://medium.com/@wildanabidd) | [**Kaggle**](https://www.kaggle.com/wildanabid19)
+## Profiles & Portfolio
 
----
+[LinkedIn](https://www.linkedin.com/in/wildanabidalhanif/) | [GitHub](https://github.com/wildanjr19) | [Medium](https://medium.com/@wildanabidd) | [Kaggle](https://www.kaggle.com/wildanabid19)
 
-## **Experience**  
+## Experience
 
-### 📝 **Project-Based Intern**  
-**Dinas Komunikasi Informatika Statistik dan Persandian Surakarta | Aug 2024 - Sep 2024**  
-- Project title "Analisis Sentimen dan Pemodelan Topik Sektor Kesehatan di Kota Surakarta"
-- Scrapping 10K+ data from Google Maps review
-- Fine-tune IndoBERT for sentiment analysis and multi-class classification
-- Visualizing result of research
+### Project-Based Intern
 
-### 📋 **Assistant Lecturer**
-- Alghoritm and Programming
+**Dinas Komunikasi Informatika Statistik dan Persandian Surakarta | Aug 2024 - Sep 2024**
 
-### 🔬 **Research Assistant**
-- Statistic modelling
+- Project: Sentiment Analysis and Topic Modeling of the Health Sector in Surakarta.
+- Scraped 10,000+ Google Maps reviews.
+- Fine-tuned IndoBERT for sentiment analysis and multi-class classification.
+- Visualized the research results.
 
-### **Data Scienctist Intern**
-**DataIns | Jan 2026 - Now**
-- Focues on text mining and processing
+### Assistant Lecturer
 
----
-## **Education**  
-🎓 **B.S. in Statistics** | Universitas Sebelas Maret | **Aug 2023 - Present**  
+- Algorithms and Programming.
 
----
+### Research Assistant
+
+- Statistical modeling.
+
+### Data Scientist Intern
+
+**DataIns | Jan 2026 - Present**
+
+- Focuses on text mining and processing.
+
+## Education
+
+**B.S. in Statistics** | Universitas Sebelas Maret | **Aug 2023 - Present**
+
 ## Top Repositories
-- 🔗 [**Machine Learning From Scratch**](https://github.com/wildanjr19/ml-from-scratch)  
-  Trying to implemented machine learning alghoritm from scratch
 
-- 🔗 [**Generative Model**](https://github.com/wildanjr19/generative-model)  
-  Implemented generative model from scratch with paper implemented  
+- [Machine Learning from Scratch](https://github.com/wildanjr19/ml-from-scratch)
+
+  Implementing machine learning algorithms from scratch.
+
+- [Generative Model](https://github.com/wildanjr19/generative-model)
+
+  Implementing generative models from scratch, based on their papers:
+
   - Autoencoder
-  - Variational Auto Encoder
-  - Vector Quantization-Variational Auto Encoder (VQ-VAE)
+  - Variational Autoencoder (VAE)
+  - Vector Quantization-Variational Autoencoder (VQ-VAE)
   - Generative Adversarial Network (GAN)
   - Diffusion Model (Denoising Diffusion Probabilistic Models)
 
-- 🔗 [**Transformers From Scratch**](https://github.com/wildanjr19/transformers-from-scratch)  
-  Implemented Transformers from Attention is All You Need from scratch
+- [Transformers from Scratch](https://github.com/wildanjr19/transformers-from-scratch)
 
-- 🔗 [**Machine Learning from Scratch**](https://github.com/wildanjr19/ml-from-scratch)  
-  Implemented machine learning alghoritm from scratch
+  Implementing Transformers from scratch, following *Attention Is All You Need*.
 
----
+## Projects
 
-## Project Done
-- [**NYC Taxi Hourly Trip Count Forecasting**](https://github.com/wildanjr19/nyc-taxi-hourly-trip-forecasting)
-  Compare Prophet and XGBoost for hourly NYC taxi trip forecasting with a 24-hour horizon, feature engineering, and expanding-window validation.
-- [**Sentiment Analysis of Shin Tae-yong's Dismissal**](https://github.com/wildanjr19/analisis-sentimen-sty)
+- [NYC Taxi Hourly Trip Count Forecasting](https://github.com/wildanjr19/nyc-taxi-hourly-trip-forecasting)
+
+  Compared Prophet and XGBoost for hourly NYC taxi trip forecasting with a 24-hour horizon, feature engineering, and expanding-window validation.
+
+- [Sentiment Analysis of Shin Tae-yong's Dismissal](https://github.com/wildanjr19/analisis-sentimen-sty)
+
   Sentiment analysis using IndoBERT, with methods and discussion documented in a Medium case study.
-- [**IHSG Forecasting with LSTM and Daily Sentiment**](https://github.com/wildanjr19/stock-forecasting-lstm)
-  Explore IHSG closing-value forecasting using LSTM and daily sentiment scores from posts on X as an additional predictor.
-- 🔗 [**Sentiment Analysis and Topic Modeling of the Health Sector in Surakarta City**](https://github.com/wildanjr19/analisis-sentimen-pemodelan-topik-kesehatan-surakarta)
-This was my internship project at the Surakarta City Communication and Information Service (Diskominfo SP). In this project, I scraped data from over 10,000 Google Maps reviews of hospitals in Surakarta City. I then conducted sentiment analysis on these reviews, followed by topic modeling to identify key topics. Finally, I presented the results of this project to the relevant agencies.
-- 🔗 [**Time Series Anomaly Detection with hybrid LSTM-VAE**](https://github.com/wildanjr19/vae-lstm-ts-anomaly-detection)
-Implementation and experimentation of anomaly detection on time series data. This research uses a hybrid approach, namely using LSTM VAE. The LSTM acts as an encoder to handle time series data, and utilizes the latent space of the VAE to recognize data characteristics. This is an ongoing project.
-- 🔗 [**Air Quality Classification with Deep Learning**](https://github.com/wildanjr19/air-quality-classification)
-Image-based air quality classification. This project applies deep learning, specifically image classification using a transfer learning approach. Users input images of the surrounding sky, and the model then predicts air quality categories.
-- 🔗 [**RAG-based culinary recommendation system**](https://instaculinary.my.id/)
-A Retrieval-Augmented Generation (RAG)-based chatbot that provides culinary recommendations in the Surakarta (Solo) and Yogyakarta regions. This project is the result of an internship at DataIns as a Data Scientist.
-Data was collected from Instagram through scraping and then processed into a knowledge base that is used to answer culinary questions accurately and contextually.
 
-## **Achievements**  
+- [IHSG Forecasting with LSTM and Daily Sentiment](https://github.com/wildanjr19/stock-forecasting-lstm)
 
-🏆 **1st Place** – **Dokter Data Essay Competition** | Universitas Diponegoro 2025  
-- Implemented U-Net model for image segmentation of deforestation rate in Obi Island  
+  Explores IHSG closing-value forecasting using LSTM and daily sentiment scores from posts on X as an additional predictor.
 
-🏅 **Finalist SRIFOTON Machine Learning Competition 2025** | Universitas Sriwijaya 2025
-- Image Classification  
-- Created a model for image lung diesase classification
-- Applied deep learning technique 
+- [Sentiment Analysis and Topic Modeling of the Health Sector in Surakarta City](https://github.com/wildanjr19/analisis-sentimen-pemodelan-topik-kesehatan-surakarta)
 
-🏅 **25/92th Data Mining Intelecta Cup 2025** | Telkom University 2025
-- Machine Learning: Regression Analysis
-- Build model to predict average temperature
+  Internship project at Diskominfo SP Surakarta. I scraped 10,000+ Google Maps reviews of hospitals in Surakarta, ran sentiment analysis and topic modeling, and presented the results to the agency.
 
-🎯 **Finalis Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
-- Image Classification
-- 7/94 Qualification phase  
-- Created a model for image for traditional architecture in Indonesian
-- Applied feature extraction for images and combined with MLP classifier
-- Applied DINO by Meta for image extraction
+- [Time Series Anomaly Detection with hybrid LSTM-VAE](https://github.com/wildanjr19/vae-lstm-ts-anomaly-detection)
 
-🏅 **Finalist Data Mining Competition ACTION 2025** | Universitas Negeri Surabaya 2025
+  Implementation and experimentation of anomaly detection on time series data. This research uses a hybrid LSTM-VAE approach. The LSTM encodes the time series, and the VAE latent space captures its characteristics. This is an ongoing project.
+
+- [Air Quality Classification with Deep Learning](https://github.com/wildanjr19/air-quality-classification)
+
+  Image-based air quality classification. This project applies deep learning, specifically image classification with transfer learning. Users input images of the surrounding sky, and the model predicts air quality categories.
+
+- [RAG-based culinary recommendation system](https://instaculinary.my.id/)
+
+  A Retrieval-Augmented Generation (RAG)-based chatbot that provides culinary recommendations in Surakarta and Yogyakarta. I built this project during an internship at DataIns as a Data Scientist. I collected data from Instagram through scraping and processed it into a knowledge base used to answer culinary questions with context from the posts.
+
+## Achievements
+
+**1st Place: Dokter Data Essay Competition** | Universitas Diponegoro 2025
+
+- Implemented a U-Net model to segment deforestation in Obi Island.
+
+**Finalist, SRIFOTON Machine Learning Competition 2025** | Universitas Sriwijaya 2025
+
+- Image classification.
+- Built a model to classify lung disease from images.
+- Applied deep learning.
+
+**25th of 92, Data Mining Intelecta Cup 2025** | Telkom University 2025
+
+- Machine learning: regression analysis.
+- Built a model to predict average temperature.
+
+**Finalist, Data Science Competition LOGIKA UI 2025** | Universitas Indonesia 2025
+
+- Image classification.
+- 7th of 94 in the qualification phase.
+- Built an image classification model for traditional Indonesian architecture.
+- Applied image feature extraction and combined it with an MLP classifier.
+- Used DINO by Meta for feature extraction.
+
+**Finalist, Data Mining Competition ACTION 2025** | Universitas Negeri Surabaya 2025
+
 - Qualification:
-  - Image Classification
-  - Image Clustering
-  - Self-supervised Learning
-  - Psuedo-labelling
-  - Kaggle Leaderboard -> 9/131
-  - Final Standing -> 5/131
+  - Image classification
+  - Image clustering
+  - Self-supervised learning
+  - Pseudo-labelling
+  - Kaggle leaderboard: 9th of 131
+  - Final standing: 5th of 131
   - Paper
 - Finals:
-  - NER (Named Entity Recognition)
-  - Token Classification
-  - BIO Tagging
-  - Kaggle Leaderboard -> 2/5
-  - Final Standing -> Na   
+  - Named Entity Recognition (NER)
+  - Token classification
+  - BIO tagging
+  - Kaggle leaderboard: 2nd of 5
 
-🎯 **25/163 Data Slayer 3.0 2025** | Telkom University 2025
-- Drowsiness detection
-- Video dan image processing
-- Applied sequence modelling for image
-  
-🏆 **2nd Place** – **Data Vers ANAVA** | Universitas Gadjah Mada 2026  
-- Qualification
+**25th of 163, Data Slayer 3.0 2025** | Telkom University 2025
+
+- Drowsiness detection.
+- Video and image processing.
+- Applied sequence modeling to images.
+
+**2nd Place: Data Vers ANAVA** | Universitas Gadjah Mada 2026
+
+- Qualification:
   - Classification
-  - Handle massive data (12M rows)
-- Final
-  - Token Classification
+  - Handled 12M rows.
+- Final:
+  - Token classification
   - NER
