@@ -24,6 +24,19 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 ## Experience
 
+### Freelance Data Engineer (Scraping & Collection)
+
+**Remote · Oct 2026 - Present**
+
+- Collecting and parsing data for client work: company contacts, PDF documents, Google Maps reviews, and Instagram comments.
+- Delivers CSV/XLSX outputs with source notes and documented gaps.
+
+### Data Scientist Intern
+
+**DataIns · Jan 2026 - Feb 2026**
+
+- Focused on text mining and processing.
+
 ### Project-Based Intern
 
 **Dinas Komunikasi Informatika Statistik dan Persandian Surakarta · Aug 2024 - Sep 2024**
@@ -40,12 +53,6 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 ### Research Assistant
 
 - Statistical modeling.
-
-### Data Scientist Intern
-
-**DataIns · Jan 2026 - Present**
-
-- Focuses on text mining and processing.
 
 ## Education
 
