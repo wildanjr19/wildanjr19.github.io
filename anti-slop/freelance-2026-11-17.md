@@ -11,7 +11,6 @@ File sumber tidak dipublikasikan dan tidak di-commit.
 - Enam pekerjaan tampil setara sebagai ledger, bukan kartu.
 - Setiap baris punya satu angka utama, satu catatan, alat, dan `details` `Proses & catatan`.
 - `Input data Sensus Ekonomi 2026` tetap sebagai footnote, bukan baris penuh.
-- Lima praktik kerja ditampilkan sebagai blok `Cara kerja`.
 
 ## Data yang tampil
 
@@ -28,7 +27,7 @@ Tidak ada nama klien, industri klien, status berbayar, durasi, tarif, testimoni,
 
 ## Perubahan file
 
-- `index.html`: section freelance diganti ledger enam baris, intro, footnote, dan blok cara kerja.
+- `index.html`: section freelance diganti ledger enam baris, intro, dan footnote.
 - `assets/style.css`: gaya ledger, angka hasil, detail, footnote, dan prinsip kerja. Aturan `freelance-list` dan `freelance-work` yang lama dihapus.
 - Screenshot: `desktop.png`, `mobile-390.png`, `freelance-desktop.png`, `freelance-mobile.png`.
 
