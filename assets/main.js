@@ -51,9 +51,9 @@ filters.forEach((button) => {
   button.addEventListener("click", () => {
     const category = button.dataset.filter;
     const orderedProjects = [...projects];
-    if (category === "nlp") {
+    if (category === "ai") {
       orderedProjects.sort(
-        (a, b) => (a.dataset.nlpOrder ?? 99) - (b.dataset.nlpOrder ?? 99),
+        (a, b) => (a.dataset.aiOrder ?? 99) - (b.dataset.aiOrder ?? 99),
       );
     }
     orderedProjects.forEach((project) => project.parentElement.append(project));
