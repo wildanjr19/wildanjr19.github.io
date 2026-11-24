@@ -82,7 +82,7 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 - [Evidence-Based Research Assistant](https://github.com/wildanjr19/evidence-based-research-assistant)
 
-  A thesis and literature review assistant using Docling, LanceDB, SQLite FTS5, Streamlit, and RAGAS. Combines BM25 and dense retrieval with Reciprocal Rank Fusion and optional reranking across 2,514 indexed chunks from a 41-PDF collection. Claim cards link to source passages and original PDF pages, or flag missing evidence. Records RAGAS faithfulness and response relevancy estimates, token and API usage, response caches, pinned model revisions, and configuration snapshots.
+  A thesis and literature review assistant using Docling, LanceDB, SQLite FTS5, React, and RAGAS. Combines BM25 and dense retrieval with Reciprocal Rank Fusion and optional reranking across 2,514 indexed chunks from a 41-PDF collection. Claim cards link to source passages and original PDF pages, or flag missing evidence. Records RAGAS faithfulness and response relevancy estimates, token and API usage, response caches, pinned model revisions, and configuration snapshots.
 
 - [NYC Taxi Hourly Trip Count Forecasting](https://github.com/wildanjr19/nyc-taxi-hourly-trip-forecasting)
 
