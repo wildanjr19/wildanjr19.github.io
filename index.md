@@ -80,6 +80,10 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 ## Projects
 
+- [Evidence-Based Research Assistant](https://github.com/wildanjr19/evidence-based-research-assistant)
+
+  A thesis and literature review assistant using Docling, LanceDB, SQLite FTS5, Streamlit, and RAGAS. Combines BM25 and dense retrieval with Reciprocal Rank Fusion and optional reranking across 2,514 indexed chunks from a 41-PDF collection. Claim cards link to source passages and original PDF pages, or flag missing evidence. Records RAGAS faithfulness and response relevancy estimates, token and API usage, response caches, pinned model revisions, and configuration snapshots.
+
 - [NYC Taxi Hourly Trip Count Forecasting](https://github.com/wildanjr19/nyc-taxi-hourly-trip-forecasting)
 
   Compared Prophet and XGBoost for hourly NYC taxi trip forecasting with a 24-hour horizon, feature engineering, and expanding-window validation.
@@ -104,9 +108,9 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
   Image-based air quality classification. This project applies deep learning, specifically image classification with transfer learning. Users input images of the surrounding sky, and the model predicts air quality categories.
 
-- [RAG-based culinary recommendation system](https://instaculinary.my.id/)
+- [InstaCulinary: RAG Recommendation App](https://github.com/wildanjr19/instaculinary-rag)
 
-  A Retrieval-Augmented Generation (RAG)-based chatbot that provides culinary recommendations in Surakarta and Yogyakarta. I built this project during an internship at DataIns as a Data Scientist. I collected data from Instagram through scraping and processed it into a knowledge base used to answer culinary questions with context from the posts.
+  Built during my Data Scientist internship at DataIns using FastAPI, LangChain, Pinecone, DeepSeek, and Next.js. Answers Indonesian food questions for Yogyakarta and Solo with recommendation cards linked to Instagram sources. The pipeline covers Instagram extraction, LLM-assisted description processing, 512-dimensional Jina embeddings, top-5 retrieval, and structured generation. Includes backend tests and GitHub Actions CI.
 
 ## Achievements
 

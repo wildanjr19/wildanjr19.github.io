@@ -226,7 +226,7 @@
      <button aria-controls="projects-list" aria-pressed="true" class="filter active" data-filter="all" type="button">
       Semua proyek
       <span aria-hidden="true">
-       08
+       09
       </span>
      </button>
      <button aria-controls="projects-list" aria-pressed="false" class="filter" data-filter="analysis" type="button">
@@ -240,7 +240,7 @@
      </button>
     </div>
     <p aria-live="polite" class="sr-only" id="filter-status" role="status">
-     Menampilkan 8 proyek.
+     Menampilkan 9 proyek.
     </p>
     <div class="projects-list" id="projects-list">
      <article class="project-card" data-category="analysis nlp">
@@ -397,19 +397,25 @@
        </h3>
        <div class="tags">
         <span>
-         RAG
+         FastAPI
         </span>
         <span>
-         NLP
+         LangChain
         </span>
         <span>
-         Text mining
+         Pinecone
+        </span>
+        <span>
+         DeepSeek
+        </span>
+        <span>
+         Next.js
         </span>
        </div>
       </div>
       <div class="project-content">
        <p>
-        Chatbot berbasis RAG untuk eksplorasi kuliner di Solo dan Yogyakarta, menggunakan data Instagram yang diolah menjadi knowledge base.
+        Aplikasi RAG yang menjawab pertanyaan kuliner di Solo dan Yogyakarta lewat kartu rekomendasi dengan tautan ke unggahan Instagram sumbernya.
        </p>
        <details class="project-method">
         <summary>
@@ -421,7 +427,7 @@
            Proses
           </dt>
           <dd>
-           Pengumpulan data, pemrosesan teks, penyusunan knowledge base, dan integrasi RAG.
+           Ekstraksi data Instagram, pemrosesan deskripsi dengan bantuan LLM, embedding Jina 512 dimensi di Pinecone, retrieval top-5, dan respons terstruktur DeepSeek melalui LangChain.
           </dd>
          </div>
          <div>
@@ -429,7 +435,7 @@
            Luaran
           </dt>
           <dd>
-           Aplikasi rekomendasi kuliner berbasis percakapan, dikerjakan saat magang di DataIns.
+           API FastAPI dan antarmuka Next.js, dilengkapi pengujian backend serta pemeriksaan frontend dan integrasi proxy melalui GitHub Actions. Dikerjakan saat magang di DataIns.
           </dd>
          </div>
         </dl>
@@ -631,6 +637,74 @@
        </p>
        <div class="project-bottom">
         <a aria-label="Lihat implementasi machine learning dari awal di GitHub" class="project-link" href="https://github.com/wildanjr19/ml-from-scratch" rel="noopener noreferrer" target="_blank">
+         Lihat proyek
+         <span aria-hidden="true">
+          ↗
+         </span>
+        </a>
+       </div>
+      </div>
+     </article>
+     <article class="project-card" data-category="nlp">
+      <span aria-hidden="true" class="project-number">
+       09
+      </span>
+      <div class="project-heading">
+       <div class="project-meta">
+        <span>
+         NLP · GENERATIVE AI
+        </span>
+        <span>
+         ALAT BANTU RISET
+        </span>
+       </div>
+       <h3>
+        Evidence-Based Research Assistant
+       </h3>
+       <div class="tags">
+        <span>
+         Streamlit
+        </span>
+        <span>
+         Docling
+        </span>
+        <span>
+         LanceDB
+        </span>
+        <span>
+         RAGAS
+        </span>
+       </div>
+      </div>
+      <div class="project-content">
+       <p>
+        Asisten untuk skripsi dan tinjauan pustaka dengan koleksi 41 PDF dan 2.514 chunk terindeks. Setiap kartu klaim menyertakan bukti yang dapat ditelusuri ke kutipan dan halaman PDF asli, atau ditandai jika bukti tidak tersedia.
+       </p>
+       <details class="project-method">
+        <summary>
+         Proses &amp; luaran
+        </summary>
+        <dl class="project-details">
+         <div>
+          <dt>
+           Proses
+          </dt>
+          <dd>
+           Parsing Docling, hybrid retrieval BM25 dan dense dengan Reciprocal Rank Fusion, reranker opsional, serta pembuatan klaim melalui DeepSeek.
+          </dd>
+         </div>
+         <div>
+          <dt>
+           Luaran
+          </dt>
+          <dd>
+           Antarmuka Streamlit dengan pemeriksaan PDF dan estimasi faithfulness serta relevansi respons dari RAGAS. Penggunaan token dan API dicatat; cache respons, revisi model, serta snapshot konfigurasi mendukung eksperimen yang dapat direproduksi.
+          </dd>
+         </div>
+        </dl>
+       </details>
+       <div class="project-bottom">
+        <a aria-label="Lihat proyek Evidence-Based Research Assistant di GitHub" class="project-link" href="https://github.com/wildanjr19/evidence-based-research-assistant" rel="noopener noreferrer" target="_blank">
          Lihat proyek
          <span aria-hidden="true">
           ↗
