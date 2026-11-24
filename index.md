@@ -39,7 +39,7 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 ### Project-Based Intern
 
-**Dinas Komunikasi Informatika Statistik dan Persandian Surakarta · Aug 2024 - Sep 2024**
+**Dinas Komunikasi Informatika Statistik dan Persandian Surakarta · Aug 2025 - Sep 2025**
 
 - Project: Sentiment Analysis and Topic Modeling of the Health Sector in Surakarta.
 - Scraped 10,000+ Google Maps reviews.
