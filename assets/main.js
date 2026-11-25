@@ -65,12 +65,18 @@ filters.forEach((button) => {
     });
 
     let visibleCount = 0;
-    projects.forEach((project) => {
+    orderedProjects.forEach((project) => {
       const visible =
         category === "all" ||
         project.dataset.category.split(" ").includes(category);
       project.hidden = !visible;
-      if (visible) visibleCount += 1;
+      if (visible) {
+        visibleCount += 1;
+        const numberEl = project.querySelector(".project-number");
+        if (numberEl) {
+          numberEl.textContent = String(visibleCount).padStart(2, "0");
+        }
+      }
     });
 
     if (filterStatus) {

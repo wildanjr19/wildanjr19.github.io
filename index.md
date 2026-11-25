@@ -16,7 +16,6 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 - R / RStudio
 - Google Looker
 - Python
-- Deep learning
 
 ## Profiles & Portfolio
 
@@ -35,7 +34,7 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 **DataIns · Jan 2026 - Feb 2026**
 
-- Focused on text mining and processing.
+- Focused on text mining, text processing, and building a RAG-based culinary recommendation system.
 
 ### Project-Based Intern
 
@@ -102,7 +101,7 @@ Statistics student at Sebelas Maret University. Interested in deep learning, gen
 
 - [Time Series Anomaly Detection with hybrid LSTM-VAE](https://github.com/wildanjr19/vae-lstm-ts-anomaly-detection)
 
-  Implementation and experimentation of anomaly detection on time series data. This research uses a hybrid LSTM-VAE approach. The LSTM encodes the time series, and the VAE latent space captures its characteristics. This is an ongoing project.
+  Implementation and experimentation of anomaly detection on time series data. This research uses a hybrid LSTM-VAE approach. The LSTM encodes the time series, and the VAE latent space captures its characteristics.
 
 - [Air Quality Classification with Deep Learning](https://github.com/wildanjr19/air-quality-classification)
 
