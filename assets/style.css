@@ -29,7 +29,7 @@ a:active { text-decoration: underline; text-decoration-thickness: 2px; text-unde
 .filter:active,
 .menu-toggle:active { transform: translateY(1px); }
 h1, h2, h3, h4, p { margin: 0; }
-h1, h2, h3, h4 { font-family: var(--heading); font-weight: 650; }
+h1, h2, h3, h4 { font-family: var(--heading); font-weight: 650; overflow-wrap: break-word; }
 img, svg { display: block; max-width: 100%; }
 [hidden] { display: none !important; }
 .container { width: min(1200px, calc(100% - 112px)); margin-inline: auto; }
